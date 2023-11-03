@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOHMI
+(*
  * File: DirIOHMI.fun
- * Author: Josh
- * Created: April 27, 2015
- ********************************************************************
- * Functions and function blocks of library DirIOHMI
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOHMI, licensed under the MIT License.
+ *)
 
 FUNCTION DirIODualPane : BOOL (* *) (*$GROUP=User*)
 	VAR_INPUT

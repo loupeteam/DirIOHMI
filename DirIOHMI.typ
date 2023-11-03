@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOHMI
+(*
  * File: DirIOHMI.typ
- * Author: Josh
- * Created: April 27, 2015
- ********************************************************************
- * Data types of library DirIOHMI
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOHMI, licensed under the MIT License.
+ *)
 
 TYPE
 	DirectoryMgr_HMI_typ : 	STRUCT 

@@ -1,13 +1,10 @@
-/********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOHMI
+/*
  * File: DirIODualPane.c
- * Author: Josh
- * Created: April 27, 2015
- ********************************************************************
- * Implementation of library DirIOHMI
- ********************************************************************/
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOHMI, licensed under the MIT License.
+ */
 
 #include <bur/plctypes.h>
 #ifdef __cplusplus
