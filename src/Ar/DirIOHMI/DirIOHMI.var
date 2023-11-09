@@ -1,0 +1,11 @@
+(*
+ * File: DirIOHMI.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOHMI, licensed under the MIT License.
+ *)
+VAR CONSTANT
+	DIOWRAP_DO_NAME_LEN : UINT := 260;
+	DIOWRAP_DO_LIST_LEN : UINT := 20;
+END_VAR
