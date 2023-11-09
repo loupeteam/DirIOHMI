@@ -1,0 +1,18 @@
+{
+  "name": "@loupeteam/messagebox",
+  "version": "0.1.3",
+  "description": "Loupe's messagebox library for Automation Runtime",
+  "homepage": "https://loupeteam.github.io/Sandbox/libraries/messagebox.html",
+  "scripts": {},
+  "keywords": [],
+  "author": "Loupe",
+  "license": "Loupe Software License Agreement",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loupeteam/messagebox"
+  },
+  "dependencies": {
+    "@loupeteam/ringbuflib": "*",
+    "@loupeteam/hmitools": "*"
+  }
+}

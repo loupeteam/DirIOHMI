@@ -1,0 +1,14 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Library: MessageBox
+ * File: MessageBox.var
+ * Author: Josh
+ * Created: August 01, 2013
+ ********************************************************************
+ * Constants of library MessageBox
+ ********************************************************************)
+VAR CONSTANT
+	MESSAGEBOX_MAX : UINT := 5;
+	MESSAGEBOX_MESSAGE_LENGTH : UINT := 80;
+END_VAR
